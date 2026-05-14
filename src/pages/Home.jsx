@@ -57,9 +57,9 @@ export default function Home() {
       </section>
       <section className="featureGrid">
          <div className="featureCard"><span>01</span><h3>You mustn't be the referee</h3><p>As long as the uploaded wallet are verified staker and have active stake. It counts!!.</p></div>
-        <div className="featureCard"><span>01</span><h3>Real verification</h3><p>Uploaded wallets are checked from the StakersPro database before they count.</p></div>
-        <div className="featureCard"><span>02</span><h3>Retry rejected wallets</h3><p>If a wallet was not a StakersPro user before, upload it again after it becomes verified. and make sure the user has staked before uploading</p></div>
-        <div className="featureCard"><span>03</span><h3>Duplicate protection</h3><p>Approved wallets cannot be counted under multiple affiliate groups.</p></div>
+        <div className="featureCard"><span>02</span><h3>Real verification</h3><p>Uploaded wallets are checked from the StakersPro database before they count.</p></div>
+        <div className="featureCard"><span>03</span><h3>Retry rejected wallets</h3><p>If a wallet was not a StakersPro user before, upload it again after it becomes verified. and make sure the user has staked before uploading</p></div>
+        <div className="featureCard"><span>04</span><h3>Duplicate protection</h3><p>Approved wallets cannot be counted under multiple affiliate groups.</p></div>
       </section>
       <section id="join" className="authSection">
         <div className="authCard">
